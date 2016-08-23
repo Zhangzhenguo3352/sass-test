@@ -1,0 +1,8 @@
+@import 'reset';
+
+body {
+  font-size: 100% Helvetica, sans-serif;
+  background-color: #efefef;
+}
+// 这个页面 首先 要建立好 _reset.scss 里面写的内容是 可以看 我说的这个文件夹，
+// 然后用 @import ‘reset’ 引入, 就相当于拿过来一样
